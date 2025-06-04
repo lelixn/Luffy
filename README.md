@@ -26,14 +26,9 @@ Welcome to **Luffy**, a stunning, visually appealing tribute web project inspire
 
 ---
 
-## 📸 Screenshots
 
-<!-- Replace these with your actual images or hosted preview links -->
-| Home Page | Scroll Effect | Character UI |
-|----------|---------------|---------------|
-| ![](assets/screens/home.png) | ![](assets/screens/scroll.png) | ![](assets/screens/characters.png) |
 
----
+
 
 ## 🚀 Getting Started
 
