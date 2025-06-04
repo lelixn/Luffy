@@ -2,7 +2,8 @@
 
 Welcome to **Luffy**, a stunning, visually appealing tribute web project inspired by the legendary anime and manga series **One Piece**. This project showcases smooth design, animation, and stylized elements representing Monkey D. Luffy and the Straw Hat Pirates in a modern front-end experience.
 
-![Luffy Banner](https://github.com/lelixn/Luffy/assets/your-banner-image-link-here) <!-- Replace with actual image URL if available -->
+![image](https://github.com/user-attachments/assets/4070989f-734e-49a1-9cd7-a1b8fb191058)
+
 
 ---
 
