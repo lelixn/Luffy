@@ -1,4 +1,4 @@
-# 🏴‍☠️ Luffy - One Piece Inspired Website
+# 🏴‍☠️ Luffy - One Piece Assistant Website
 
 Welcome to **Luffy**, a stunning, visually appealing tribute web project inspired by the legendary anime and manga series **One Piece**. This project showcases smooth design, animation, and stylized elements representing Monkey D. Luffy and the Straw Hat Pirates in a modern front-end experience.
 
